@@ -1,6 +1,10 @@
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
 
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,200..800&display=swap');
+</style>
+
 /**
  * Quartz 4.0 Configuration
  *
@@ -23,8 +27,8 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Atkinson hyperlegible",
-        body: "Atkinson hyperlegible",
+        header: "Bricolage Grotesque",
+        body: "Bricolage Grotesque",
         code: "IBM Plex Mono",
       },
       colors: {
