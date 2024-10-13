@@ -1,9 +1,6 @@
 import { QuartzConfig } from "./quartz/cfg"
 import * as Plugin from "./quartz/plugins"
 
-<style>
-@import url('https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,200..800&display=swap');
-</style>
 
 /**
  * Quartz 4.0 Configuration
@@ -27,8 +24,8 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Bricolage Grotesque",
-        body: "Bricolage Grotesque",
+        header: "'Bricolage Grotesque', sans-serif", // Add single quotes around multi-word font names
+        body: "'Bricolage Grotesque', sans-serif",
         code: "IBM Plex Mono",
       },
       colors: {
