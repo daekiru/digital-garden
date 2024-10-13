@@ -1,3 +1,3 @@
-...
+
 # This is a heading
 And this is the content.
