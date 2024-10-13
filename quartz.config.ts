@@ -25,7 +25,7 @@ const config: QuartzConfig = {
       cdnCaching: true,
       typography: {
         header: "'Bricolage Grotesque', sans-serif", // Add single quotes around multi-word font names
-        body: "'Bricolage Grotesque', sans-serif",
+        body: "Montserrat, sans-serif",
         code: "IBM Plex Mono",
       },
       colors: {
