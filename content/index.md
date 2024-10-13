@@ -1,3 +1,6 @@
+---
+title: Welcome
+---
 
 
 # This is a heading
