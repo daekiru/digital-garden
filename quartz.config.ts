@@ -24,8 +24,8 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "'Bricolage Grotesque', sans-serif", // Add single quotes around multi-word font names
-        body: "'Bricolage Grotesque', sans-serif",
+        header: "Bricolage Grotesque, sans-serif", // Add single quotes around multi-word font names
+        body: "Bricolage Grotesque, sans-serif",
         code: "IBM Plex Mono",
       },
       colors: {
