@@ -10,7 +10,7 @@ export const sharedPageComponents: SharedLayout = {
     links: {
       "Contact": "mailto:sanchit30469@gmail.com",
       "Telegram": "https://t.me/sanchitz",
-      "Support": "https://t.me/sanchitz",
+      "Support": "https://buymeacoffee.com/daekiru",
     },
   }),
 }
