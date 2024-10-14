@@ -4,6 +4,14 @@ import * as Component from "./quartz/components"
 analytics: 
 { provider: 'google', tagId: '<G-01HS9J1L3N>' }
 
+const pageTitle = (
+  <header>
+    {/* Replace the text title with an image */}
+    <img src="/quartz/components/static/icon.png" alt="Icon" style={{ height: "50px" }} />
+  </header>
+)
+
+
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
   head: Component.Head(),
