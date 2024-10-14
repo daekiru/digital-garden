@@ -1,8 +1,6 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
 
-analytics: 
-{ provider: 'google', tagId: '<G-01HS9J1L3N>' }
 
 
 // components shared across all pages
