@@ -7,7 +7,7 @@ analytics:
 const pageTitle = (
   <header>
     {/* Replace the text title with an image */}
-    <img src="/quartz/components/static/icon.png" alt="Icon" style={{ height: "50px" }} />
+    <img src="C:\Users\sanch_nxecz1t\quartz\quartz\static\icon.png" alt="Icon" style={{ height: "50px" }} />
   </header>
 )
 
