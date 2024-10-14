@@ -10,6 +10,7 @@ export const sharedPageComponents: SharedLayout = {
     links: {
       GitHub: "https://github.com/jackyzha0/quartz",
       "Telegram": "https://t.me/sanchitz",
+      "Support": "https://t.me/sanchitz",
     },
   }),
 }
