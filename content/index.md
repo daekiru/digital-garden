@@ -12,6 +12,7 @@ date: 2024-10-13
 > - Second point.
 > - Third Point.
 
+this is one of my other posts : [[Welcome onboard]]
 
 ## This is another heading:
 
