@@ -7,7 +7,7 @@
     display: inline-block;
     width: 50px; /* Adjust the width to the size of your icon */
     height: 50px; /* Adjust the height to the size of your icon */
-    background-image: url('/static/icon.png'); /* Ensure the correct path */
+    background-image: url("static/icon.png"); /* Ensure the correct path */
     background-size: contain;
     background-repeat: no-repeat;
     text-indent: -9999px; /* Hides the text while keeping it accessible for screen readers */
