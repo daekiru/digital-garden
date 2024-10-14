@@ -1,17 +1,8 @@
 import { PageLayout, SharedLayout } from "./quartz/cfg"
 import * as Component from "./quartz/components"
 
-
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-01HS9J1L3N"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-01HS9J1L3N');
-</script>
-
+analytics: 
+{ provider: 'google', tagId: '<G-01HS9J1L3N>' }
 
 // components shared across all pages
 export const sharedPageComponents: SharedLayout = {
