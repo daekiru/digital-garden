@@ -2,7 +2,7 @@
 ---
 title: Example Title
 draft: false
-tags: first
+tags: anothertag
   
 ---
  
