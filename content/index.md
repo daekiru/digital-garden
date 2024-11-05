@@ -41,6 +41,7 @@ thoughts on paper, doing whatever nerdy technical stuff i think useful even if i
 
 ---
 **Ideas (keywords) i'm somewhat into/ideas i'm deeply into:**
+
 AI&ML, privacy & privacy laws, data management, architecture, design, innovation & iterations, UI UX, open source, writing, essays, philosophy, programming, reading, building in public, problem solving, systems, free will, productivity, art, productivity systems, flow state, digital garden, background music (piano, violin, classical, mozart), character design, learning, perspectives, empathy, flash fiction, curiosity, self improvement, technological advances, paraphrasing, researching, drafting, documenting, venting, calisthenics, day dreaming, organizing, listening, inner monologue, 3AM thoughts, knowledge base/PKM, aesthetic, minimalist, digital detox, intentions & reflections, wisdom, skepticism, automations, stoicism, mental models, critical thinking, righteousness, humility, brainstorming, first principle analysis, big data, note taking, second brain, detachment, bullet journal, out of the box thinking, b-rolls, cinematography.
 
 
