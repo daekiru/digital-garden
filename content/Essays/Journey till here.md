@@ -13,6 +13,8 @@ So august was the month i pivoted towards my writing journey, I officially begin
 
 The best part about that period was I never had to think or care about what will other people think of me for expressing my thoughts or for my awful grammar skills (because you know, I was still a teenager!), So I just continued writing as many posts as I can with whatever i had to talk about, and honestly it all went pretty well before i suddenly abandoned the website completely for some reason.
 
+---
+
 Almost a year later (in sept 2018) I Started again my writing journey, now by this time I had some experience, in coding, graphic designing, and some basic knowledge of setting up 
 and customizing a website. So I spent my first few weeks in doing those things and finally posted my first blog post on a completely new website, under a completely new name, made my first ever good looking logo, purchased a .com domain, and invested all my learnings 
 to make it the best blog as I can. 
@@ -26,6 +28,8 @@ Time went by got more and more busy with the studies, I was preparing for a exam
 
 In the year 2020 & 2021, I continued paying the Annual domain charges even though I wasn't really doing anything on my website, the reason why I was paying, because I somewhat believed that I will someday upload again to my website, but unfortunately it never really happened, I tried reviving it back but couldn't able to. 
 
+---
+
 Then I'd decided one day, that I will not continue anymore and will even drop the idea of coming back to that website, and discontinue paying for the domain charges, although it was a really tough decision for me, however i stayed true to my words and stopped there, now when I look back I feel grateful that at least I started, doesn't matter how it went, and that atleast i have a data as well some memories to trace back that i did done something in 
 the past.
 
@@ -34,6 +38,8 @@ not be able to write with the same feeling or intensity, also i wasn't sure of m
 5000-7000 rupees, although money was never the problem but i literally had nothing to share with the world, i had no exposure of the world, no real skills i could teach about, no real problems i had solved before, rather all i had was a pile of insecurities that were eating me everyday. 
 
 Then i got an idea that i will start a channel on telegram and write there whatever i feel good about, although i had no audience this time, unlike my previous websites where i had daily new visitors coming up, this time i was doing it for the sake of my mental wellbeing, for the love towards writing, for the frustration i felt talking/engaging with people, and also for the frustration of feeling lonely at times.
+
+---
 
 In these two years i had written over 200-300 entries, mostly being accounted for venting my feelings, of these many entries i had only made around 20% public[1], and other entries were 
 kept private. i had no subscribers even by the end of the year, and it was all because i was never been consistent with the art and never respected it, i attached the idea of "getting 
