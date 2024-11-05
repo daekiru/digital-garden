@@ -54,7 +54,7 @@ AI&ML, privacy & privacy laws, data management, architecture, design, innovation
 >>> - If any of the above idea/project resonates with you, you can be a part of them by volunteering your efforts, or if you want to support us monetarily, you can be a member, or donate a one time amount of your choice, either way you can message me HERE to know about the details of the project and I'll provide you the access key, and here's the support LINK, if that is what you prefer.
 >>> - *One more thing, if you've opted to donate us from either of the ways (membership or one time payment) we will make sure that it will be spend on the projects related expenses only, along with a full transparency disclosure report from our end, where we will specify how your money is spent/will be spent towards these projects.*
 
-*any broken links or places where a link should have been present, are intentional and will be fixed/added in the coming days!*
+*any broken links or places where a link should have been there, but does not has, are intentional and will be fixed/added in the coming days!*
 
   
 
