@@ -11,7 +11,7 @@ Although it is not a website per se, i may still sometime refer or call it a "we
 ---
 
 > [!NOTE] Some of my recent posts:
-> - Journey till here
+> - [[Journey till here]]
 > - [Over Optimization](https://sanchitasoliya.substack.com/p/over-optimizing)
 > - Transitioning...
 
