@@ -12,7 +12,7 @@ Although it is not a website per se, i may still sometime refer or call it a "we
 
 > [!NOTE] Some of my recent posts:
 > - Journey till here
-> - Over Optimization
+> - [Over Optimization](https://sanchitasoliya.substack.com/p/over-optimizing)
 > - Transitioning...
 
 
@@ -26,7 +26,7 @@ Although it is not a website per se, i may still sometime refer or call it a "we
 > 6. [Resources](https://sanchitasoliya.xyz/Resources/)
 
 *OR* if you're someone familiar with the tags you can access the site and related content with 
-these tags: #introductory, #
+these tags: #introductory, #journal
 
 
 Currently, I'm building a personal system that would store all my learnings at a single place (a PKM) and a system which works as a wiki to all my notes & systems, and interconnect 
