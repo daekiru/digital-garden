@@ -8,7 +8,7 @@ in public.
 
 Although it is not a website per se, i may still sometime refer or call it a "website" unintentionally so you know what to constitute as the meaning whenever i use the word website. Unlike a traditional blog, a "digital garden" has no chronological order, or same flow throughout, rather it has no order, structure, or linearity, it often includes unfinished, unpolished, and informal ideas that are still growing and sometimes ever-growing and evolving ideas.
 
-
+---
 
 > [!NOTE] Some of my recent posts:
 > - Journey till here
