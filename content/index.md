@@ -17,11 +17,11 @@ Although it is not a website per se, i may still sometime refer or call it a "we
 
 **Navigate to different pages from here:**
 > 1. [Documenting](https://sanchitasoliya.xyz/Documenting/)
-> 2. [Essays](https://sanchitasoliya.xyz/essays/)
-> 3. [Journey](https://sanchitasoliya.xyz/journey/)
-> 4. [Learnings](https://sanchitasoliya.xyz/learnings/)
-> 5. [Projects](https://sanchitasoliya.xyz/projects/)
-> 6. [Resources](https://sanchitasoliya.xyz/resources/)
+> 2. [Essays](https://sanchitasoliya.xyz/Essays/)
+> 3. [Journey](https://sanchitasoliya.xyz/Journey/)
+> 4. [Learnings](https://sanchitasoliya.xyz/Learnings/)
+> 5. [Projects](https://sanchitasoliya.xyz/Projects/)
+> 6. [Resources](https://sanchitasoliya.xyz/Resources/)
 
 *OR* if you're someone familiar with the tags you can access the site and related content with 
 these tags: #introductory, #
