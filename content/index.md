@@ -12,6 +12,7 @@ Although it is not a website per se, i may still sometime refer or call it a "we
 
 > [!NOTE] Some of my recent posts:
 > - [[Journey till here]]
+> - [[Explicit Endings]]
 > - [Over Optimization](https://sanchitasoliya.substack.com/p/over-optimizing)
 > - Transitioning...
 
@@ -24,6 +25,7 @@ Although it is not a website per se, i may still sometime refer or call it a "we
 > 4. [Learnings](https://sanchitasoliya.xyz/Learnings/)
 > 5. [Projects](https://sanchitasoliya.xyz/Projects/)
 > 6. [Resources](https://sanchitasoliya.xyz/Resources/)
+> 7. [Short Form](https://sanchitasoliya.xyz/Short-Form/)
 
 *OR* if you're someone familiar with the tags you can access the site and related content with 
 these tags: #introductory, #journal

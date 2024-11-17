@@ -1,5 +1,5 @@
 
-*alternatively: Explicit endings*
+*alternatively: Ending with a good note
 
 I don't know how to even put this but have you ever wondered why friendships does not end abruptly like other relationships does, why we never be able to say on face that we do not want this friendship anymore while on the other hand we end a relationship explicitly when we no longer want it. I know it's not a contract or agreement that must be undertaken on a paper, but somewhere i think we should do this to friendships[1] as well and not always take it impliedly, especially in cases where one person is still invested in and other person has moved on with their new ones. The second reason why i think this is important because there's always a person out of the two who will suffer (otherwise this shouldn't even be a topic of debate) and keeping things the way they are will only turn them into pain, anger, and resentment.
 
