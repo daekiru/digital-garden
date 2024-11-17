@@ -1,0 +1,8 @@
+
+*alternatively: Explicit endings*
+
+I don't know how to even put this but have you ever wondered why friendships does not end abruptly like other relationships does, why we never be able to say on face that we do not want this friendship anymore while on the other hand we end a relationship explicitly when we no longer want it. I know it's not a contract or agreement that must be undertaken on a paper, but somewhere i think we should do this to friendships[1] as well and not always take it impliedly, especially in cases where one person is still invested in and other person has moved on with their new ones. The second reason why i think this is important because there's always a person out of the two who will suffer (otherwise this shouldn't even be a topic of debate) and keeping things the way they are will only turn them into pain, anger, and resentment.
+
+There might be arguments such as for example in romantic relationships there's an element of exclusivity, on the other hand in friendships there's no exclusivity at all and we're not obliged to only have one friend at a time and which makes the original argument a little less convincing which tells us to explicitly end our friendships. On the other hand if we talk about attachments and emotional involvements both comes with their set of emotional elements and attachments, and just as we feel obliged to end romantic relationships expressly, we should feel this for friendships as well and not make the other person be hanged, or wait till they finally get/catch the signs on their own.
+
+[1]: Close and long-term friendships.
