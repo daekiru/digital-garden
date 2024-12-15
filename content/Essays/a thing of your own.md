@@ -1,3 +1,4 @@
+#seedlings
 do you remember the time when you were a kid, maybe not everyone has this photogenic memory but one thing we all can agree upon is the ability of kids to have this enormous amout of energy as well as the curiosity to indulge in things which we adults never really find interesting at all, like playing all the time without ever getting tired, also the act of fidgeting with every freaking thing that comes their way.
 
 Although we all have left that age decades ago or unless you're some five year old reading my post, i'll say to keep this childlike curiosity forever, but one thing i can say that i've seen quite often, in people of my age or even older adults that they've lost that spark that they used to have at some point, now at 24, I have no friends that have any hobbies or side projects or things which they're pursuing or indulging in to pass their time or just to feel good or things that makes us live in the moment.
