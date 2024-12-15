@@ -10,11 +10,9 @@ Although it is not a website per se, i may still sometime refer or call it a "we
 
 ---
 
-> [!NOTE] Some of my recent posts:
-> - [[Journey till here]]
+> [!NOTE] Some of my recent post(s):
+> - [[a thing of your own]]
 > - [[Explicit Endings]]
-> - [Over Optimization](https://sanchitasoliya.substack.com/p/over-optimizing)
-> - Transitioning...
 
 
 

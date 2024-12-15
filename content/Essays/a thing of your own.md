@@ -8,7 +8,6 @@ You know the best part of being a kid or being at that age was we knew nothing s
 
 Having a thing of your own as per my definition means, something which radiates or emits your truest self, thing which has a sense of purpose beyond any sort of physical entity, a thing which reflects your own artistic sense or creative choices, and something which is like your own child that you nurture and evolve over time, the whole purpose of having it isn't to get validation or perfecting it, rather it's about accepting it the way it is even if it's messy and imperfect, or something which serves as a mechanism to keep you engaged no matter what's happening around whether good or bad.
 
-[
 
 ![](https://substackcdn.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F765bcc3a-699f-46b7-8fc0-b9326304c9d1_2048x2048.jpeg)
 
@@ -37,7 +36,5 @@ And initially you might feel awful or even guilt trip yourself of how mediocre y
 Lastly, think of it as just a "side project", you need not to be some genius or even good at it to begin with, and don't attach any expectations, or some larger than life purpose from it, just do it for the fun of it or for its own sake, most importantly do it for “You”, and as you age even these so called inclinations might change to something else, so just stay in the present and do what excites you right now, even if it amounts to nothing in the end.
 
 Sources, inspirations and the process behind[^1]
-
----
 
 [^1]:This idea is approximately 2.5 year old (16 august, 2022), trust me i really had to lookup for the metadata of the file a few times before i found the actual date, during that period i really had no place to share this, neither i had the confidence to write it to its full length or potential, And even though the idea is kinda old but i had to rewrite it from the ground up, although it still is not perfect per my definition but i had to do it as i hadn't posted in almost a month. This post is heavily inspired from a essay written by Paul graham, "A project of one's own" you can read it by clicking the following link: https://paulgraham.com/own.html
