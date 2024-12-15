@@ -25,8 +25,8 @@ Although it is not a website per se, i may still sometime refer or call it a "we
 > 6. [Resources](https://sanchitasoliya.xyz/Resources/)
 > 7. [Short Form](https://sanchitasoliya.xyz/Short-Form/)
 
-*OR* if you're someone familiar with the tags you can access the site and related content with 
-these tags: #introductory, #journal
+*OR* if you're someone comfortable with tags you can access the site and related content with 
+these by clicking the tags that you will find here: https://sanchitasoliya.xyz/tags/
 
 
 Currently, I'm building a personal system that would store all my learnings at a single place (a PKM) and a system which works as a wiki to all my notes & systems, and interconnect 
