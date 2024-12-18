@@ -1,1 +1,0 @@
-This tag implies that the following content is in useable format, but improvements can still be made.
