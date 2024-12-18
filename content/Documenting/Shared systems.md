@@ -6,7 +6,7 @@ navigate from here:
 
 
 
-# Intentions and reflections #developed
+# Intentions and reflections #developed 
 
 **intentions:**
 - [ ] I will put my 100% to whatever I'll do today.
@@ -27,7 +27,7 @@ navigate from here:
 - [ ] Did this day moved you any closer to your goals and dreams.
 
 
-# list of exercises #budding
+# list of exercises #budding 
 
 ## 1. Upper Body
 1. Push-ups: 3 sets of 10-12 reps
