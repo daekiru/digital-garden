@@ -6,7 +6,7 @@ navigate from here:
 
 
 
-# Intentions and reflections #developed 
+# Intentions and reflections #mature 
 
 **intentions:**
 - [ ] I will put my 100% to whatever I'll do today.

@@ -25,7 +25,15 @@ Although it is not a website per se, i may still sometime refer or call it a "we
 > 6. [Resources](https://sanchitasoliya.xyz/Resources/)
 > 7. [Short Form](https://sanchitasoliya.xyz/Short-Form/)
 
-*OR* if you're someone more comfortable with tags you can access the site and related content by clicking the tags that you will find here: https://sanchitasoliya.xyz/tags/
+*OR* if you're someone more comfortable with tags you can access the site and related content by clicking the tags that you will find here: https://sanchitasoliya.xyz/tags/ but before you even 
+begin with tags below are some of the tags and meanings which they imply:
+
+
+> [!NOTE] Tags and their meanings
+> One of the important things which separates a digital garden from a website is the transparency and disclosure they put out, in a digital garden we define the stages of a post using the following tags:
+> 1. [[Seedling]]: It refers to the early ideas, which are still in their brainstorming and drafting phase.
+> 2. Budding: This implies that the content is in useable format, but improvements can still be made.
+> 3. Matured: And finally this tag refers to content which is reliable and has rarely any room for further improvements.
 
 
 Currently, I'm building a personal system that would store all my learnings at a single place (a PKM) and a system which works as a wiki to all my notes & systems, and interconnect 
