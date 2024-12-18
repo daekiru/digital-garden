@@ -1,3 +1,5 @@
+This page although meant to be for my personal use, but i won't mind seeing you here.
+
 navigate from here:
 1. [[#Intentions and reflections]]
 2. 
