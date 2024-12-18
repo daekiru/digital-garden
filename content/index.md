@@ -30,10 +30,10 @@ begin with tags below are some of the tags and meanings which they imply:
 
 
 > [!NOTE] Tags and their meanings
-> One of the important things which separates a digital garden from a website is the transparency and disclosure they put out, in a digital garden we define the stages of a post using the following tags:
-> 1. [[Seedling]]: It refers to the early ideas, which are still in their brainstorming and drafting phase.
-> 2. Budding: This implies that the content is in useable format, but improvements can still be made.
-> 3. Matured: And finally this tag refers to content which is reliable and has rarely any room for further improvements.
+> One of the important things which separates a digital garden from a website is the transparency and disclosure they put out, in a digital garden we define the stages of a post using tags such as:
+> 1. [Seedling](https://sanchitasoliya.xyz/tags/seedlings): It refers to the early ideas, which are still in their brainstorming and drafting phase.
+> 2. [Budding](https://sanchitasoliya.xyz/tags/budding): This implies that the content is in useable format, but improvements can still be made.
+> 3. [Matured](https://sanchitasoliya.xyz/tags/matured): And finally this tag refers to content which is reliable and has rarely any room for further improvements.
 
 
 Currently, I'm building a personal system that would store all my learnings at a single place (a PKM) and a system which works as a wiki to all my notes & systems, and interconnect 
