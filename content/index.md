@@ -18,12 +18,13 @@ Although it is not a website per se, i may still sometime refer or call it a "we
 
 **Navigate to different pages from here:**
 > 1. [Documenting](https://sanchitasoliya.xyz/Documenting/)
-> 2. [Essays](https://sanchitasoliya.xyz/Essays/)
-> 3. [Journey](https://sanchitasoliya.xyz/Journey/)
-> 4. [Learnings](https://sanchitasoliya.xyz/Learnings/)
-> 5. [Projects](https://sanchitasoliya.xyz/Projects/)
-> 6. [Resources](https://sanchitasoliya.xyz/Resources/)
-> 7. [Short Form](https://sanchitasoliya.xyz/Short-Form/)
+> 2. [Essays](https://sanchitasoliya.xyz/Essays/) 
+> 3. [Systems](https://sanchitasoliya.xyz/Systems/)
+> 4. ~~Journey~~ 
+> 5. [Learnings](https://sanchitasoliya.xyz/Learnings/)
+> 6. [Projects](https://sanchitasoliya.xyz/Projects/)
+> 7. [Resources](https://sanchitasoliya.xyz/Resources/)
+> 8. [Short Form](https://sanchitasoliya.xyz/Short-Form/)
 
 *OR* if you're someone more comfortable with tags you can access the site and related content by clicking the tags that you will find here: https://sanchitasoliya.xyz/tags/ but before you even 
 begin with tags below are some of the tags and meanings which they imply:
