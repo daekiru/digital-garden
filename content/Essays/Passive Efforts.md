@@ -40,7 +40,7 @@ Before i put an end to this i think if you're midway into something or strugglin
 
 ## CALL TO ACTION
 
-The minority ones who are acing the game might not necessarily be any geniuses or more intelligent than you but rather they are more intentional and driven, or someone more vigilant/conscious towards their work. Following is the list of tasks you may want to try after you're done reading this post:
+The minority ones who are acing the game might not necessarily be any geniuses or more intelligent but rather they are more intentional, driven, or someone more vigilant towards their priorities than you. Following are the list of tasks you may want to try after you're done reading this post:
 
 - Have a _reflection checklist_, set of questions you might want to ask yourself at the end of the day.
     
