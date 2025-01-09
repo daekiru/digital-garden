@@ -1,3 +1,7 @@
+---
+date: 2025-01-10
+---
+
 "Trying hard is not always enough" one of the commonest phrases we might have come across as a student, even though most of us agree to this phrase but had we ever given this a second thought, or to think through what it might be referring to. When we fail in an exam who exactly is to blame at, is it the teachers, our environment, our own self; our habits or patterns we follow each day, or the limitation we are assigned with at birth (or in simpler words how dumb we genetically are).
 
 Before i even present any of my opinions, i would like to know what do you think it takes to succeed academically? As far as i can think, it's either a "natural ability" or "efforts" which mostly determines your success. There may also be other determinants as well which we will talk about a little later.
@@ -34,7 +38,7 @@ Before i put an end to this i think if you're midway into something or strugglin
 
 ---
 
-### CALL TO ACTION
+## CALL TO ACTION
 
 The minority ones who are acing the game might not necessarily be any geniuses or more intelligent than you but rather they are more intentional and driven, or someone more vigilant/conscious towards their work. Following is the list of tasks you may want to try after you're done reading this post:
 

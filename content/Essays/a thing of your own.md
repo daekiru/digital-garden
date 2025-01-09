@@ -1,3 +1,6 @@
+---
+date: 2024-12-16
+---
 
 do you remember the time when you were a kid, maybe not everyone has this photogenic memory but one thing we all can agree upon is the ability of kids to have this enormous amount of energy as well as the curiosity to indulge in things which we adults never really find interesting at all, like playing all the time without ever getting tired, also the act of fidgeting with every freaking thing that comes their way.
 
