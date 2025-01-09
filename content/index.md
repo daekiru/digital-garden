@@ -11,6 +11,7 @@ Although it is not a website per se, i may still sometime refer or call it a "we
 ---
 
 > [!NOTE] Some of my recent post(s):
+> - [[Passive Efforts]]
 > - [[a thing of your own]]
 > - [[Explicit Endings]]
 
