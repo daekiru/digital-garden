@@ -23,8 +23,8 @@ navigate from here:
 - [ ] Should you really count this as a day.
 - [ ] Are you satisfied with your today's efforts.
 - [ ] Were all your efforts are invested in the right place.
-- [ ] Are you really making the progress.
-- [ ] Did this day moved you any closer to your goals and dreams.
+- [ ] Could it be done any better.
+- [ ] Did this day moved you any closer to your goals.
 
 
 # list of exercises #budding 
