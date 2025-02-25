@@ -5,21 +5,21 @@
 *or how you converse,*  
 *or the skills you possess.*
 
-*Or are you, your environment, or*  
+*or are you, your environment, or*  
 *the group you are a part of, or*  
 *the family you live with.*
 
-*Or are you, your own choices, or*  
+*or are you, your own choices, or*  
 *the actions you do, or*  
 *your innate talent, or*  
 *the genetics you are born with.*
 
 
-*Or is it your past experiences, or*  
+*or is it your past experiences, or*  
 *what you choose to watch; read; or*  
 *spent your time on makes you, you.*
 
-*Or are your unanswered questions,*  
+*or are your unanswered questions,*  
 *or your unlived life, or*  
 *the regrets that are deeply embedded*  
 *inside you.*
@@ -36,3 +36,5 @@
 *or are you the thoughts that keep you up at night, or*
 *are you what you're not, or is it the amalgamation of all such things* 
 *which makes you, uniquely you!*
+
+---
