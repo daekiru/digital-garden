@@ -5,9 +5,10 @@ tags:
 
 ---
 
-![[content/images/Pasted image 20260606002120.png|565]]
-
-**The anticipation, the expectation, and the reality:**
+https://i.postimg.cc/GhtmNbXJ/IMG-20260606-004401-395.jpg
+https://t.me/L03b5/36
+https://i.postimg.cc/GhtmNbXJ/IMG-20260606-004401-395.jpg
+## The anticipation, the expectation, and the reality:
 
 
 The day's almost here, a few days more before I finally turn 26, I literally can't  even recall where my teenage years or even my early 20s have gone into.
@@ -32,7 +33,7 @@ For a lot of folks this perfect life isn't reality, even for me regardless of ho
 Though for me much of it was the consequence of my own intentional decision(s) or things I took part in or maybe opted out due to my inherent personality trait.
 
 
-**regrets, moving out, and reminiscing the good times:**
+### regrets, moving out, and reminiscing the good times:
 
 As i turn 26 there are many things that I haven't done or couldn't do or experience which I somewhat regret[^1] at this point, while there are also things/interests which I did tried or invested my time in but couldn't pursue any further due to some limitations or due to the sheer pressure of having so much stress and existing duties.
 
@@ -54,7 +55,7 @@ The reason behind this shift was a big one, more specifically a medical reason/n
 
 It was about my mother and her CKD, and the prognosis of the disease that made all of us move out.
 
-**A possible breakthrough and the future forward:**
+## a possible breakthrough and the future forward:
 
 The thing about moving places is it has two sides, the negatives which I've already talked about, the positive side is such that you have an opportunity, opportunity to change yourself, 
 
