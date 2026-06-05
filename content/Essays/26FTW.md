@@ -5,7 +5,7 @@ tags:
 
 ---
 
-![[Pasted image 20260606002120.png|565]]
+![[content/images/Pasted image 20260606002120.png|565]]
 
 **The anticipation, the expectation, and the reality:**
 
@@ -48,7 +48,7 @@ Although it wasn't a all of a sudden decision that we took in an hour, we tried 
 
 All the belongings are still there, maybe they still have some hope left behind (which we might have lost along the way) thinking that we will get back, and use them the way we used to use them.
 
-![[Pasted image 20260606002243.png|562]]
+![[content/images/Pasted image 20260606002243.png|562]]
 
 The reason behind this shift was a big one, more specifically a medical reason/need that was somewhat impossible at the existing place, and the situation was such we didn't wanted to take any further risks.
 
