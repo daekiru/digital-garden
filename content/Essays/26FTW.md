@@ -5,9 +5,9 @@ tags:
 
 ---
 
-https://i.postimg.cc/GhtmNbXJ/IMG-20260606-004401-395.jpg
-https://t.me/L03b5/36
-https://i.postimg.cc/GhtmNbXJ/IMG-20260606-004401-395.jpg
+![](https://i.postimg.cc/GhtmNbXJ/IMG-20260606-004401-395.jpg)
+
+
 ## The anticipation, the expectation, and the reality:
 
 
@@ -49,7 +49,8 @@ Although it wasn't a all of a sudden decision that we took in an hour, we tried 
 
 All the belongings are still there, maybe they still have some hope left behind (which we might have lost along the way) thinking that we will get back, and use them the way we used to use them.
 
-![[content/images/Pasted image 20260606002243.png|562]]
+
+![](https://i.postimg.cc/fLgRWFLW/file-g.png)
 
 The reason behind this shift was a big one, more specifically a medical reason/need that was somewhat impossible at the existing place, and the situation was such we didn't wanted to take any further risks.
 
@@ -63,9 +64,7 @@ and change the way people perceive you or had perceived you all your life, based
 
 When you live at a place for a very long time especially where you've grown up and have a personality equivalent of a 'house lizard' (introvert, shy, and anxious) you have no room but to obey to your fears, everyone around you, your neighbors, your teachers, your friends, have an idea about how you function, especially your weaknesses.
 
-They feed on your weakness (obviously not all), they intentionally make you feel that you lack and how different you are are from others, 
-
-which then reinforces your fears even more, they keep validating and you keep obeying and the loop stays the same for years. (until a breakthrough happens.)
+They feed on your weakness (obviously not all), they intentionally make you feel that you lack and how different you are are from others, which then reinforces your fears even more, they keep validating and you keep obeying and the loop stays the same for years. (until a breakthrough happens.)
 
 At this new place, I'm not carrying those people, nor those two faced friends, nobody knows about me, and nobody I knows about, and that itself is a win. 
 
