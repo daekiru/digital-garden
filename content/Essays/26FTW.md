@@ -10,7 +10,6 @@ tags:
 
 ## The anticipation and the reality
 
-
 The day's almost here, a few days more before I finally turn 26, I literally can't  even recall where my teenage years or even my early 20s have gone into.
 
 Half a decade has gone by since I completed my graduation but somehow it still feels like I was in college just yesterday.
@@ -37,6 +36,7 @@ Though for me much of it was the consequence of my own intentional decision(s) o
 
 ## Regrets, moving out, and reminiscing the good times
 
+
 As i turn 26 there are many things that I haven't done or couldn't do or experience which I somewhat regret[^1] at this point, while there are also things/interests which I did tried or invested my time in but couldn't pursue any further due to some limitations or due to the sheer pressure of having so much stress and existing duties.
 
 there are things like I wish I'd done differently— conversations which I avoided, moments when I said no out of my fear/anxiety, adventures I declined, people I should have held onto for longer, self respect that I lost, and pictures I didn't took when we were together.
@@ -45,11 +45,12 @@ This year itself (mid 2025-2026) was much different from the last many years as 
 
 There was obviously emotional attachment involved and you are bound to miss a place where you've grown up and spent all your teenage years and early twenties.
 
+
 You miss food, the people, the shops, the shop owners, the weather, and the place itself, although the idea to move to a different city wasn't on anyone's bucket list, neither we would have ever imagined or would have thought even in our wildest dreams that one fine day we (my family) will all soon have to pack our bags and never come back (like the way we want to) to the same place.
 
 Although it wasn't a all of a sudden decision that we took in an hour, we tried to adjust, at first going from point A to point B, then again to point A thinking all of this will soon get better and we will eventually going to be fine. But it didn't worked and here we are living miles away from what I used to call home. 
 
-All the belongings are still there, maybe they still have some hope left behind (which we might have lost along the way) thinking that we will get back, and use them the way we used to use them.
+All the belongings are still there, maybe they still have some hope left behind (which we might have lost along the way) thinking that we will get back, and use them the way we used to use them when we were there.
 
 
 ![](https://i.postimg.cc/fLgRWFLW/file-g.png)
@@ -58,7 +59,7 @@ The reason behind this shift was a big one, more specifically a medical reason/n
 
 It was about my mother and her CKD, and the prognosis of the disease that made all of us move out.
 
-## A possible breakthrough and the future forward
+## A possible breakthrough and the future forward:
 
 The thing about moving places is it has two sides, the negatives which I've already talked about, the positive side is such that you have an opportunity, opportunity to change yourself, 
 
@@ -70,7 +71,7 @@ They feed on your weakness (obviously not all), they intentionally make you feel
 
 At this new place, I'm not carrying those people, nor those two faced friends, nobody knows about me, and nobody I knows about, and that itself is a win. 
 
-And this gives me at a little more leverage to start afresh, also to start working on myself, and my fears, and to create a new image, a better one, of myself, for myself.
+And this places me at a little more leverage to start afresh, also to start working on myself, and my fears, and to create a new image, a better one, of myself, for myself.
 
 
 
